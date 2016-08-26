@@ -1,0 +1,477 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hoa Phu Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Mar 31 2016 10:33:15 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: Tue Apr 12 2016 15:03:16 GMT+0700 (SE Asia Standard Time)\n"
+"Last-Translator: hpcoop <info@basicmech.com>\n"
+"Language-Team: \n"
+"Language: Vietnamese (Viet Nam)\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: vi_VN\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:10
+msgid "Page not found"
+msgstr ""
+
+#: ../single.php:37
+msgid "Tags: "
+msgstr ""
+
+#: ../single.php:41
+msgid "This post was written by "
+msgstr ""
+
+#: ../header.php:41
+msgid "Suport 24/7:"
+msgstr ""
+
+#: ../author.php:9
+msgid "Author Archives for "
+msgstr ""
+
+#: ../single-project.php:95
+msgid "Contractor"
+msgstr "Chủ thầu xây dựng "
+
+#: ../single-project.php:100
+msgid "Designing and fabricating"
+msgstr ""
+
+#: ../archive.php:8
+msgid "List "
+msgstr ""
+
+#: ../tag.php:8
+msgid "Tag Archive: "
+msgstr ""
+
+#: ../functions.php:158
+msgid "Extra Menu"
+msgstr ""
+
+#: ../functions.php:204
+msgid "Widget Area 1"
+msgstr ""
+
+#: ../functions.php:205 ../functions.php:216
+msgid "Description for this widget-area..."
+msgstr ""
+
+#: ../functions.php:215
+msgid "Widget Left Sidebar"
+msgstr ""
+
+#: ../functions.php:342
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:351
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:431 ../functions.php:434
+msgid "All Projects"
+msgstr ""
+
+#: ../functions.php:432
+msgid "Project"
+msgstr ""
+
+#: ../functions.php:433
+msgid "Projects"
+msgstr ""
+
+#: ../functions.php:435
+msgid "View Project"
+msgstr ""
+
+#: ../functions.php:436
+msgid "Add New Project"
+msgstr ""
+
+#: ../functions.php:437 ../functions.php:479 ../functions.php:821
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:438
+msgid "Edit Project"
+msgstr ""
+
+#: ../functions.php:439
+msgid "Update Project"
+msgstr ""
+
+#: ../functions.php:440
+msgid "Search Project"
+msgstr ""
+
+#: ../functions.php:441
+msgid "No Project Found"
+msgstr ""
+
+#: ../functions.php:442
+msgid "No Project Found In Trash"
+msgstr ""
+
+#: ../functions.php:473 ../functions.php:476
+msgid "All Products"
+msgstr ""
+
+#: ../functions.php:474
+msgid "Product"
+msgstr ""
+
+#: ../functions.php:475
+msgid "Products"
+msgstr ""
+
+#: ../functions.php:477
+msgid "View Product"
+msgstr ""
+
+#: ../functions.php:478
+msgid "Add New Product"
+msgstr ""
+
+#: ../functions.php:480
+msgid "Edit Product"
+msgstr ""
+
+#: ../functions.php:481
+msgid "Update Product"
+msgstr ""
+
+#: ../functions.php:482
+msgid "Search Product"
+msgstr ""
+
+#: ../functions.php:483
+msgid "No Product Found"
+msgstr ""
+
+#: ../functions.php:484
+msgid "No Product Found In Trash"
+msgstr ""
+
+#: ../functions.php:508
+msgctxt "taxonomy general name"
+msgid "Category Product"
+msgstr ""
+
+#: ../functions.php:509
+msgctxt "taxonomy singular name"
+msgid "Category Product"
+msgstr ""
+
+#: ../functions.php:510
+msgid "Search Categories Product"
+msgstr ""
+
+#: ../functions.php:511
+msgid "All Categories Product"
+msgstr ""
+
+#: ../functions.php:512
+msgid "Parent Category Product"
+msgstr ""
+
+#: ../functions.php:513
+msgid "Parent Category Product:"
+msgstr ""
+
+#: ../functions.php:514
+msgid "Edit Category Product"
+msgstr ""
+
+#: ../functions.php:515
+msgid "Update Category Product"
+msgstr ""
+
+#: ../functions.php:516
+msgid "Add New Category Product"
+msgstr ""
+
+#: ../functions.php:517
+msgid "New Category Product Name"
+msgstr ""
+
+#: ../functions.php:518
+msgid "Categories Product"
+msgstr ""
+
+#: ../functions.php:815 ../functions.php:818
+msgid "All Blocks"
+msgstr ""
+
+#: ../functions.php:816 ../functions.php:817
+msgid "Blocks"
+msgstr ""
+
+#: ../functions.php:819
+msgid "View Blocks"
+msgstr ""
+
+#: ../functions.php:820
+msgid "Add New Blocks"
+msgstr ""
+
+#: ../functions.php:822
+msgid "Edit Blocks"
+msgstr ""
+
+#: ../functions.php:823
+msgid "Update Blocks"
+msgstr ""
+
+#: ../functions.php:824
+msgid "Search Blocks"
+msgstr ""
+
+#: ../functions.php:825
+msgid "No Blocks Found"
+msgstr ""
+
+#: ../functions.php:826
+msgid "No Blocks Found In Trash"
+msgstr ""
+
+#: ../functions.php:848
+msgctxt "taxonomy general name"
+msgid "Home blocks position"
+msgstr ""
+
+#: ../functions.php:849
+msgctxt "taxonomy singular name"
+msgid "Home blocks position"
+msgstr ""
+
+#: ../functions.php:850
+msgid "Search Home blocks position"
+msgstr ""
+
+#: ../functions.php:851
+msgid "All Home blocks position"
+msgstr ""
+
+#: ../functions.php:852
+msgid "Edit Home blocks position"
+msgstr ""
+
+#: ../functions.php:853
+msgid "Update Home blocks position"
+msgstr ""
+
+#: ../functions.php:854
+msgid "Add New Home blocks position"
+msgstr ""
+
+#: ../functions.php:855
+msgid "New Home blocks position"
+msgstr ""
+
+#: ../functions.php:856
+msgid "Home blocks position"
+msgstr ""
+
+#: ../functions.php:901
+msgid "Setting home page display"
+msgstr ""
+
+#: ../functions.php:907
+msgid "Email:"
+msgstr ""
+
+#: ../functions.php:914
+msgid "Number phone:"
+msgstr ""
+
+#: ../functions.php:921
+msgid "Slider shortcode:"
+msgstr ""
+
+#: ../functions.php:928
+msgid "Facebook url:"
+msgstr ""
+
+#: ../functions.php:935
+msgid "Google+ url:"
+msgstr ""
+
+#: ../functions.php:942
+msgid "Twitter url:"
+msgstr ""
+
+#: ../functions.php:949
+msgid "Rss url:"
+msgstr ""
+
+#: ../functions.php:956
+msgid "Instagram url:"
+msgstr ""
+
+#: ../functions.php:963
+msgid "Linkedin url:"
+msgstr ""
+
+#: ../functions.php:970
+msgid "Vimeo url:"
+msgstr ""
+
+#: ../functions.php:1036
+msgid "This section description"
+msgstr ""
+
+#. Name of the template
+msgid "Demo Page Template"
+msgstr ""
+
+#. Name of the theme
+msgid "Hoa Phu Theme"
+msgstr ""
+
+#. Description of the theme
+msgid "Hoa Phu HTML5 Theme by Nhi &amp; Thuy"
+msgstr ""
+
+#. Author of the theme
+msgid "TNT Team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://;"
+msgstr ""
+
+msgid "Error, duplicate 1: Description:"
+msgstr ""
+
+msgid "New message"
+msgstr ""
+
+#: ../404.php:12
+msgid "Return home?"
+msgstr "Về trang chủ"
+
+#: ../loop.php:22 ../single.php:31 ../author.php:42
+msgid "Published by"
+msgstr "Được viết bởi"
+
+#: ../loop.php:23 ../single.php:32 ../author.php:43
+msgid "Leave your thoughts"
+msgstr "Để lại đánh giá của bạn"
+
+#: ../loop.php:23 ../single.php:32 ../author.php:43
+msgid "1 Comment"
+msgstr "1 Bình luận"
+
+#: ../loop.php:23 ../single.php:32 ../author.php:43
+#, php-format
+msgid "% Comments"
+msgstr "% Bình luận"
+
+#: ../loop.php:39 ../single-product.php:155 ../single.php:57 ../loop-list.php:26 .
+#: ./author.php:62 ../single-project.php:158 ../page.php:36 ../page-
+#: templates/template-demo.php:39
+msgid "Sorry, nothing to display."
+msgstr "Xin lỗi! trang này chưa có nội dung"
+
+#: ../single-product.php:96
+msgid "Product Code: "
+msgstr "Mã Sản Phẩm: "
+
+#: ../single.php:39
+msgid "Categorised in: "
+msgstr "Danh mục "
+
+#: ../header.php:78
+msgid "The core of success"
+msgstr "Cốt lõi của thành công"
+
+#: ../author.php:15
+msgid "About "
+msgstr "Về"
+
+#: ../comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+"Bài viết đã được bảo vệ bằng mật khẩu. Nhập mật khẩu để các "
+"bình luận"
+
+#: ../comments.php:18
+msgid "Comments are closed here."
+msgstr "Bình luận đã kết thúc"
+
+#: ../search.php:11
+#, php-format
+msgid "%s Search Results for "
+msgstr "%s Kết quả tìm kiếm cho"
+
+#: ../footer.php:18
+msgid "about us"
+msgstr "về chúng tôi"
+
+#: ../footer.php:66
+msgid "Contact us"
+msgstr "Liên hệ chúng tôi"
+
+#: ../category.php:9
+msgid "Categories for "
+msgstr "Loại"
+
+#: ../functions.php:156
+msgid "Header Menu"
+msgstr "Menu đầu trang"
+
+#: ../functions.php:157
+msgid "Sidebar Menu"
+msgstr "Menu bên cạnh"
+
+#: ../functions.php:281
+msgid "View Article"
+msgstr "View bài viết"
+
+#: ../functions.php:345
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ phê duyệt"
+
+#: ../functions.php:351
+msgid "(Edit)"
+msgstr "Chỉnh sửa"
+
+#: ../index.php:142
+msgid "lastest project"
+msgstr "Dự án mới nhất"
+
+#: ../taxonomy-category_product.php:10
+msgid "Description:"
+msgstr "Mô tả: "
+
+#: ../archive-product.php:9
+msgid "List Products"
+msgstr "Danh Sách Sản Phẩm"
+
+#: ../archive-project.php:8
+msgid "List Projects"
+msgstr "Danh Sách Dự Án"
+
+#: ../searchform.php:3
+msgid "To search, type and hit enter."
+msgstr "Nhập từ khóa..."
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Tìm kiếm"
